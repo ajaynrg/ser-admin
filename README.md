@@ -1,3 +1,3 @@
 # ser-admin
-School ERP BE admin service
-SER = School ERP Repo
+## School ERP BE admin service
+## SER = School ERP Repo
